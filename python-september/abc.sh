@@ -1,4 +1,2 @@
-#/bin/bash
-clear
-printf "Hello World \n"
-printf "Hello There\n"
+#!/usr/bin/env bash
+print "This is a test bash script"
